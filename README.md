@@ -2,7 +2,7 @@
 
 ## About Me
 
-**Project Lead | Database Architect | Database Optimization Expert**  
+** Database Developer | Former Project Lead | Database Optimization Expert**  
 With over 7.5 years in the database development and project management space, I've spent my career fine-tuning SQL queries, streamlining data architectures, and leading teams to success. My passion lies in solving complex database problems while managing projects efficiently to deliver innovative, scalable solutions.
 
 ### My Expertise:
