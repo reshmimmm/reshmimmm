@@ -4,19 +4,13 @@
 
 **🚀 Database Developer | Data Analyst | Former Project Lead | Database Optimization Expert**  
 
-<table>
-  <tr>
-    <td align="left" width="60%">
-      <p>🔰With over 7 years in the database development, data analysis and project management space, I've spent my career fine-tuning SQL queries, streamlining data architectures, and leading teams to success.
-        <br>🎯My passion lies in solving complex database problems while managing projects efficiently to deliver innovative, scalable solutions. 
-        <br>🔍I’m enthusiatic about efficient data systems, transforming complex datasets into valuable insights, and making data work better for everyone. 
-        <br>🛠️With experience in data analysis, database development, data integration, and analytical reporting, I bridge the gap between raw data and actionable information.</p>
-    </td>
-    <td align="right" width="40%">
-      <img src="https://github.com/reshmimmm/image_rep/blob/5dadeb29b962f18d20b0e4a9290d74c28080932c/freelancer.png" alt="Working" width="80%" />
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="300" src="https://github.com/reshmimmm/image_rep/blob/5dadeb29b962f18d20b0e4a9290d74c28080932c/freelancer.png?raw=true">
+      <p>
+        🔰 With over 7 years in the database development, data analysis and project management space, I've spent my career fine-tuning SQL queries, streamlining data architectures, and leading teams to success.<br>
+        🎯 My passion lies in solving complex database problems while managing projects efficiently to deliver innovative, scalable solutions.<br>
+        🔍 I’m enthusiastic about efficient data systems, transforming complex datasets into valuable insights, and making data work better for everyone.<br>
+        🛠️ With experience in data analysis, database development, data integration, and analytical reporting, I bridge the gap between raw data and actionable information.
+      </p>
 
 
 ### 💡 My Expertise:
