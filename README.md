@@ -4,7 +4,7 @@
 
 **🚀 Database Developer | Data Analyst | Former Project Lead | Database Optimization Expert**  
 
-<img align="right" alt="Coding" width="300" src="https://github.com/reshmimmm/image_rep/blob/5dadeb29b962f18d20b0e4a9290d74c28080932c/freelancer.png?raw=true">
+<img align="right" alt="Coding" width="300" src="https://github.com/reshmimmm/reshmimmm/blob/91c4ee060133bbb4d375e45ec33427ad4aae9ecf/developer.png?raw=true">
       <p>
         🔰 With over 7 years in the database development, data analysis and project management space, I've spent my career fine-tuning SQL queries, streamlining data architectures, and leading teams to success.<br>
         🎯 My passion lies in solving complex database problems while managing projects efficiently to deliver innovative, scalable solutions.<br>
