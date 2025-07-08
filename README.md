@@ -1,8 +1,9 @@
-# Hey! This is Reshmi!
+# Hey! 👋 This is Reshmi!
 
 ## About Me
 
 **🚀 Database Developer | Data Analyst | Former Project Lead | Database Optimization Expert**  
+
 With over 7 years in the database development, data analysis and project management space, I've spent my career fine-tuning SQL queries, streamlining data architectures, and leading teams to success. My passion lies in solving complex database problems while managing projects efficiently to deliver innovative, scalable solutions. I’m enthusiatic about efficient data systems, transforming complex datasets into valuable insights, and making data work better for everyone. With experience in database development, data integration, and analytical reporting, I bridge the gap between raw data and actionable information.
 
 ### 💡 My Expertise:
@@ -42,6 +43,4 @@ I'm a strong advocate for **cross-functional collaboration** and **team growth**
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/reshmi-munda-29648254/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://www.linkedin.com/in/reshmi-munda-29648254/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square)](mailto:reshmi.munda17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/reshmi-munda-29648254/)      [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://www.linkedin.com/in/reshmi-munda-29648254/)      [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square)](mailto:reshmi.munda17@gmail.com)
